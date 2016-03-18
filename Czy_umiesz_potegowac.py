@@ -1,4 +1,5 @@
 ile = 0
+ile2= 0
 while ile not in range (1,10):
     ile = int(raw_input())
 
